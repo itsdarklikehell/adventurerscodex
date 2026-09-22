@@ -8,7 +8,7 @@ Welcome to Adventurer&rsquo;s&nbsp;Codex</h1>
 
 ## Development Visualization
 
-<video src="https://github.com/itsdarklikehell/adventurerscodex/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/itsdarklikehell/adventurerscodex/master/gource.mp4" controls width="100%"></video>
 
 *Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 Experience the next step in tabletop RPGs
