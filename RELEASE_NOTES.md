@@ -1,7 +1,8 @@
 # Release Notes
 
-## 2026-10-02
+## 2026-10-03
 
+* docs: update RELEASE_NOTES.md (8383f5c)
 * chore: add missing GitHub files (4a41516)
 * ci: update gource visualization (automated) (48888ea)
 * ci: update gource visualization (automated) (1b4c083)
@@ -21,4 +22,3 @@
 * Fixes issue where encoutner completion would be only sometimes marked correctly in the detail view. (#2213) (ebbf97d)
 * Adds Encounter Completion and Objective UI. (#2210) (ba92a1c)
 * Adds Sorting to Encounters (#2211) (faec3d8)
-* Adds new Fields to a Campaign (#2209) (c4be5f0)
